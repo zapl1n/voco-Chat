@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "Jane Smith",
+    "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 2,
+    "username": "Jane Smith",
+    "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 3,
+    "username": "Jane Smith",
+    "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 4,
+    "username": "Jane Smith",
+    "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 5,
+    "username": "Jane Smith",
+    "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "date": "2021-02-01T20:30:52.123Z"
+  }
+]
